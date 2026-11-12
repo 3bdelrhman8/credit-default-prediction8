@@ -1,0 +1,10 @@
+# Placeholder - run notebooks/export_cell.py in Colab to overwrite this file
+# with the exact versions used for training (required for the model to load).
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+lightgbm
+xgboost
+joblib
